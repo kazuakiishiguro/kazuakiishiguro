@@ -1,5 +1,6 @@
 ## Kazuaki Ishiguro
-<a href="https://twitter.com/KazuakiIshiguro?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @KazuakiIshiguro</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/KazuakiIshiguro?style=social)](https://twitter.com/KazuakiIshiguro) 
 
 * hp: [kazuaki.dev](https://kazuaki.dev)
 * Keybase: [@kazuaki_ishiguro](https://keybase.io/kazuaki_ishiguro)
