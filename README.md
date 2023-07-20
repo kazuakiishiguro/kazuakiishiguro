@@ -1,6 +1,6 @@
 ## Kazuaki Ishiguro
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KazuakiIshiguro?style=social)](https://twitter.com/KazuakiIshiguro) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/kazuakiishiguro?style=social)](https://twitter.com/kazuakiishiguro) 
 
 * hp: [kazuakiishiguro.com](https://kazuakiishiguro.com)
 * Keybase: [@kazuaki_ishiguro](https://keybase.io/kazuaki_ishiguro)
