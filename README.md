@@ -4,4 +4,4 @@
 
 * hp: [kazuakiishiguro.com](https://kazuakiishiguro.com)
 * Keybase: [@kazuaki_ishiguro](https://keybase.io/kazuaki_ishiguro)
-* PGP key: [45AA 67FE F244 FF9C](http://keyserver.ubuntu.com/pks/lookup?search=45AA67FEF244FF9C&fingerprint=on&op=index)
+* PGP key: [22e11c94aaa43b7ac9ee64e7eed680a55d432c99](http://keyserver.ubuntu.com/pks/lookup?search=22e11c94aaa43b7ac9ee64e7eed680a55d432c99&fingerprint=on&op=index)
